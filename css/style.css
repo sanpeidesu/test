@@ -82,7 +82,7 @@ header #logo img {
 	width: 140px;	/*メニューの幅*/
 	color: #fff;	/*文字色*/
 	border-bottom: 2px solid transparent;	/*下線の幅、線種、色。transparentは透明の事。*/
-	padding-bottom: 20px;	/*下線と文字の間にとる余白*/
+	padding-bottom: 40px;	/*下線と文字の間にとる余白*/
 }
 /*マウスオン時の指定*/
 #menubar li a:hover {
