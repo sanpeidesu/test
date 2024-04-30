@@ -12,7 +12,7 @@ body {
 	 "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;	/*フォント種類*/
 	font-size: 16px;	/*文字サイズ*/
 	line-height: 2;		/*行間*/
-	background: #009245;	/*背景色*/
+	background: linear-gradient(#009245, #005438);	/*背景色*/
 	-webkit-text-size-adjust: none;
 }
 h1,h2,h3,h4,h5,p,ul,ol,li,dl,dt,dd,form,figure,form {margin: 0px;padding: 0px;font-size: 100%;font-weight: normal;}
@@ -44,7 +44,7 @@ header {
 	height: 100%;
 	overflow: auto;
 	position: relative;
-	background: #009245;	/*背景色*/
+	background: linear-gradient(#009245, #005438);	/*背景色*/
 }
 /*ロゴ画像*/
 header #logo img {
